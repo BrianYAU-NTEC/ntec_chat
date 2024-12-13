@@ -14,3 +14,6 @@ streamlit run app.py
   faiss-cpu==1.9.0
   nltk==3.9.1
   pypdf==5.1.0
+
+### Documents folder
+/docs_mni/pdf
