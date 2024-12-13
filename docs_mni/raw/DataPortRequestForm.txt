@@ -1,0 +1,30 @@
+Q1) How long normally for a data port application to complete?
+A1) Normally it takes 4-6 weeks after approval is sought. Sometime it may take longer time to complete depends on the location, please check with your local IT.
+
+Q2) Does GOPC using the same form to apply for data port?
+A2) Please use the same form with all kind of data port and location.
+
+Q3) For the field "Type of installation" which type should I choose for a medical data port?
+A3) Information as follow
+-Type 0: For any existing network hubs relocation, current network connections will be affected. Please click the box for “Request for Quotation Only” to schedule site visit. And it takes at least 3-6 months to carry out the work from the date of funding confirmation.
+-Type 1: New Installation and metallic conduit is already built by HPFM contractor: $2,100
+-Type 2: New Installation and HA Data Port Contractor builds metallic conduit: $3,600
+-Type 3: New Installation WIFI Access Point and metallic conduit is already built by HPFM contractor: $8,500
+-Type 4: New Installation HA or medical equipment WIFI Access Point and HA Data Port Contractor builds metallic conduit: $10,000Remark
+
+Q4) For type 4 (medical equipment WIFI) installation, do I need additional data port for the access point?
+A4) Subject to local IT site survey
+
+Q5) If I have more than 1 usage for the data port, do I need to fill them all in the "Usage" column?
+A5) Each data port should serve single use, please consider to apply addition data port
+
+Q6) Where can I find the data port ID for relocation?
+A6) Data ID marked on Data port panel with label. If label cannot be found, please contact your local IT.
+
+Q7) For data port was funded by 2 or more COA, do I need to request in different form?
+A7) The system only accepts one COA to each request. For split of funding, please also submit for another application.
+
+Q8) When will the last date for data port application in order to settle the fund in this financial year?
+A8) Mid Dec each year
+
+

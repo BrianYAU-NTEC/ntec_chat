@@ -1,0 +1,122 @@
+Situation 1: 
+Standalone External Network
+
+Vendor Standalone External Network without interface to HA 
+
+A. Network Infrastructure:
+
+Setup by External Network Vendor 
+Follow HA cabling system & network setup  
+For Medical Systems that confirm will not use HA provided External Network data port(s), vendor shall setup the network and implement the cabling system.  
+
+B. Standards and Guidelines: 
+
+Follow the latest “IT Security Requirements for Quotation / Tender - Procurement of "non-IT" 
+System/Equipment” Follow the Level 2 setup in the “Guidelines for Cabling System and Network Setup in External Network” 
+
+C. Cabling and Network Equipment:
+
+Vendor can use their own cabling contractor following the industry cabling standards in the guidelines 
+Vendor can use their own network switch 
+
+
+Standalone External Network Application step:
+1. Master Application Form 
+2. System Network Diagram (Email)
+
+Situation 2: 
+The Medical System Links to HA network, and the vendor installs the data ports
+
+Vendor Medical System External Network with interface to HA. 
+
+Have interface to HA System 
+It is Medical System 
+Can not Separate Funding for DP
+
+A. Network Infrastructure:
+
+Setup by External Network Vendor 
+Follow HA cabling system & network setup guideline 
+For Medical Systems that confirm cannot use HA provided External Network data port(s), vendor shall setup the network and implement the cabling system. 
+
+B. Standards and Guidelines 
+
+Follow the latest “IT Security Requirements for Quotation / Tender - Procurement of "non-IT" 
+System/Equipment” Follow the Level 1 setup in the “Guidelines for Cabling System and Network Setup in External Network” 
+C. Cabling and Network Equipment
+
+Vendor can use their own cabling contractor following the industry cabling standards in the guidelines
+Vendor can use their own network switch 
+
+Vendor Medical System Interface to HA Application step for External Network/Medical Network with EAI Data Interchange:
+1. Master Application Form
+2. System Network Diagram
+3. Data Port Request Form (NTECITD-7)
+4. Floor Plan for install data port location
+5. Apply IP address via Local IT
+6. Firewall Request Change Form (NTECITD-30)
+7. Apply Hostname Name (optional)
+8. Apply Vendor remote support (optional)
+
+Situation 3: 
+Non-Medical System Links to HA Network
+
+Vendor Non-Medical System External Network with interface to HA.
+
+A. Network Infrastructure:
+
+Setup by External Network Vendor 
+Follow HA cabling system & network setup  
+
+For Non-Medical Systems that confirm cannot use HA provided External Network data port(s), vendor shall setup the network and implement the cabling system. 
+
+B. Standards and Guidelines 
+
+Follow the latest “IT Security Requirements for Quotation / Tender - Procurement of "non-IT" System/Equipment” 
+Can implement the cabling system by referencing to the HA’s “Guidelines for Cabling System and Network Setup in External Network” 
+C. Cabling and Network Equipment:
+
+Vendor can use their own cabling contractor following the industry cabling standards in the guidelines (Except backbone cabling to be done by HA cabling contractor)
+Vendor can use their own network switch that meet the specification in the guidelines
+
+Vendor Non-Medical System External Network with interface to HA Application Step
+1. Master Application Form
+2. Network Diagram (Email) 
+3. Data Port Request Form (NTECITD-7)
+4. Floor Plan for install data port location 
+5. Apply IP address via Local IT 
+6. Firewall Request Change Form (NTECITD-30)
+7. Apply Hostname Name (optional) 
+8. Apply Vendor remote support (optional)
+
+Situation 4: 
+The Medical System links to HA network, And HA installs the data ports
+
+Vendor Medical Systems (Using HA provided data port(s) / HA Wireless LAN) 
+
+For Medical Systems that confirm can use HA External Network data port(s) / Wireless LAN. 
+
+A. Network Infrastructure:
+
+Installed by HOIT 
+24x7 network monitoring 
+Enterprise-grade change and incident process
+Network Equipment life-cycle management 
+HA will install External Network data port(s) next to those equipment for connection with the HA Network or HA will install External Network wireless LAN for those equipment support Wi-Fi connection with the HA Network. 
+
+B. Standards and Guidelines: 
+
+Follow the latest “IT Security Requirements for Quotation / Tender - Procurement of "non-IT" System/Equipment” 
+C. Cabling and Network Equipment:
+
+Network cabling and Network Switch / HA Wireless LAN will be provided by IT& HI 
+
+Vendor Medical Systems (Using HA provided data port(s) / HA Wireless LAN) Application step:
+1. Master Application Form 
+2. Network Diagram (Email) 
+3. Data Port Request Form (NTECITD-7)
+4. Floor Plan for install data port location
+5. Apply IP address via Local IT 
+6. Firewall Request Change Form (NTECITD-30)
+7. Apply Hostname Name (optional) 
+8. Apply Vendor remote support (optional)

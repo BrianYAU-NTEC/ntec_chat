@@ -1,0 +1,16 @@
+Master form
+Q1) Where can I find the updates of Master Application Form after submit?
+A1) Check with your local IT
+
+Q2) If commence date not confirmed yet, should I leave it blank?
+A2) Consult your local IT
+
+Q3) What is the definition of confidential data?
+A3) Please follow the latest “IT Security Requirements for Quotation / Tender - Procurement of "non-IT" System/Equipment” 
+
+Q4) Any encryption standard for vendor to follow?
+A4) Please follow the latest “IT Security Requirements for Quotation / Tender - Procurement of "non-IT" System/Equipment” 
+
+Q5) Where can I find the HA's SDLC Application Security Guidelines?
+A5) Please refer to the document “Guidelines for Application Security” form this link https://hacgl.home/it/getDMSPDF.aspx?FileUrl=http://hadms.home/HAHO/itd/PDF%20DMS%20Document/b7beae3c-c4c6-458e-b669-c0a5e7eddc92/Guidelines%20for%20Application%20Security%20(ISO)_2.pdf
+

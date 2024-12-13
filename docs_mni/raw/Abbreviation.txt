@@ -1,0 +1,17 @@
+NTEC = New Territories East Cluster
+AHNH = Alice Ho Miu Ling Nethersole Hospital
+BBH = Bradbury Hospice 
+NDH = North District Hospital
+PWH = Prince of Wales Hospital 
+SCH = Cheshire Home Shatin
+SH = Shatin Hospital
+TPH = Tai Po Hospital
+HBIT = Hospital based Information Technology Office
+HA = Hong Kong Hospital Authority
+HAHO = HA Head Office
+HOIT = HAHO Information Technology Office
+MNI = Medical Network Infrastructure
+EAI = Enterprise Application Integration
+FWCR = Firewall change request
+SEP = Symantec endpoint protection
+DP = Dataport

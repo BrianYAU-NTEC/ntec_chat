@@ -1,0 +1,18 @@
+Sam
+
+How to apply MNI
+How to apply IP address
+How to apply vendor remote support
+How to apply hostname
+How to apply firewall change
+How do I do to let vendor computer connect to their server in Internet
+How to fill master form
+What information I shall provide for MNI project
+How long the MNI project implementation
+How long to apply IP address
+How long to apply firewall change
+
+Larry
+My computer was running a medical system and want to connect a printer. Which kind of connection should I do?
+I have a medical equipment connected system running on a desktop. How can I apply a network connection for this desktop computer?
+We have a new system interface with HA system and needed to connected to Internet. Which kind of network I needed to apply and how to apply?

@@ -1,0 +1,23 @@
+Q1) What is the situation for request a firewall system change request?
+A1) For system and or device need to go through different network. For example: if your equipment was sitting in medical network need to connecting to internet or HA network.
+
+Q2) What is source IP/hostname/owner?
+A2) Please work with your vendor or HOIT system project team.
+
+Q3) What is destination IP/hostname/owner?
+A3) Please work with your vendor or HOIT system project team.
+
+Q4) Any use restriction of Port Number?
+A4) Please work with related HOIT system project team.
+
+Q5) Any use restriction of Service?
+A5) Please work with related HOIT system project team.
+
+Q6) Any use restriction of Protocol?
+A6) Please work with related HOIT system project team.
+
+Q7) Can our medical system vender be the requester?
+A7) Yes, vendor can the requestor of the request.
+
+Q8) How long does a firewall system change request to process?
+A8) Normally it talks 4 to 6 weeks after approval is sought. Sometime it may take longer time to complete depends on the network complexity.

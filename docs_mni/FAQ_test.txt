@@ -1,0 +1,14 @@
+👨🏻
+how to apply for data port request?
+🤖
+To apply for a Data Port Request, you need to complete and submit the following steps:
+Master Application Form: Submit an application form to request a new network connection.
+Network Diagram (Email): Provide a diagram showing how the medical system will be connected to the HA network.
+Data Port Request Form (NTECITD-7): Fill out this form to request data ports for your desktop computer.
+You can also refer to the standard and guidelines provided by your organization, such as:
+"IT Security Requirements for Quotation / Tender - Procurement of 'non-IT' System/Equipment"
+"Guidelines for Cabling System and Network Setup in External Network" (if applicable)
+Additionally, you may need to provide further information or documentation, such as:
+Floor Plan: Submit a floor plan indicating where you'd like the data port installed.
+Firewall Request Change Form (NTECITD-30): If necessary, submit this form to request changes to the firewall configuration.
+Once you've completed these steps and submitted them to your organization's IT department, they will review and approve your request.

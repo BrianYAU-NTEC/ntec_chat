@@ -1,0 +1,3 @@
+My computer was running a medical system and want to connect a printer. Which kind of connection should I do?
+I have a medical equipment connected system running on a desktop. How can I apply a network connection for this desktop computer?
+We have a new system interface with HA system and needed to connected to Internet. Which kind of network I needed to apply and how to apply?

@@ -1,0 +1,5 @@
+Computers with pink labels were supported by NTEC.
+Computers with yellow labels were supported by HOIT.
+Hospitals in NTEC: AHNH, BBH, NDH, PWH, SCH, SH and TPH.
+NTECITD-7 was HA Dataport request form
+NTECITD-30 was Firewall change request form
